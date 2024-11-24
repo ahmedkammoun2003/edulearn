@@ -1,0 +1,4 @@
+PyMuPDF
+requests
+Flask
+PyQt5
